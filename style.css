@@ -1,0 +1,28 @@
+.logo{
+    margin-left: 3.17px;
+    margin-top: 8.72px;
+    width: 31.67px;
+    height: 20.55px;
+}
+.title{
+    color: black;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    width: 208px;
+    height: 36px;
+    margin-top: 64px;
+    margin-left: 98px;
+    
+}
+body{
+    background: linear-gradient(
+        to right,
+        #2F80ED 0%,
+        #2F80ED 30%,
+        white 30%,
+        white 100%
+    );
+}
